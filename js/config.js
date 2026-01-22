@@ -1,4 +1,4 @@
-ichtenlet respecConfig = {
+let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
